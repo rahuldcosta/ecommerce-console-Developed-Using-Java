@@ -1,0 +1,147 @@
+
+V
+squid:S1065"9Replace this use of System.out or System.err by a logger.(‰‡¹’8êãîĞ­.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(­ÜêÏ8êãîĞ­.
+V
+squid:S106d"9Replace this use of System.out or System.err by a logger.(€¿ôÖ8êãîĞ­.
+[
+squid:S106_"9Replace this use of System.out or System.err by a logger.(Üùÿøÿÿÿÿ8êãîĞ­.
+[
+squid:S106o"9Replace this use of System.out or System.err by a logger.(¯ƒÅ®ùÿÿÿÿ8êãîĞ­.
+Asquid:S2129"Remove this "Long" constructor(–š–şÿÿÿÿ8“æ™Ğ­.
+W
+squid:S106Ò"9Replace this use of System.out or System.err by a logger.(Ëêñê8êãîĞ­.
+W
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(’ÇÁ8ÿÙ¯Ò­.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Âüñ8õ‡Í¼­.
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(çş¯Ô8êãîĞ­.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(…´™ì8êãîĞ­.
+~squid:S1488“"_Immediately return this expression instead of assigning it to the temporary variable "product".(½œÒ¨8êãîĞ­.
+\
+squid:S106ì"9Replace this use of System.out or System.err by a logger.(¥ÔÑ‡øÿÿÿÿ8ÿÙ¯Ò­.
+=squid:S2129ú"Remove this "Long" constructor(î«‘é8ÿÙ¯Ò­.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Üùÿøÿÿÿÿ8êãîĞ­.
+asquid:CallToDeprecatedMethodò",Remove this use of "Date"; it is deprecated.(ù€Ùéüÿÿÿÿ8ÿÙ¯Ò­.
+{squid:S1192o"XDefine a constant instead of duplicating this literal "Please Enter Product Id" 3 times.(¯ƒÅ®ùÿÿÿÿ8êãîĞ­.
+V
+squid:S106½"9Replace this use of System.out or System.err by a logger.(¦·Ş8ÿÙ¯Ò­.
+Asquid:S2129"Remove this "Long" constructor(çüÁÕüÿÿÿÿ8µ¨½½­.
+jsquid:S1301Õ"KReplace this "switch" statement by "if" statements to increase readability.(¨ÕÉ8ÿÙ¯Ò­.
+W
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ñ·Ïß8òÕ®Ò­.
+\
+squid:S106©"9Replace this use of System.out or System.err by a logger.(Ö·‹üşÿÿÿÿ8êãîĞ­.
+W"squid:SwitchLastCaseIsDefaultCheckg""Add a default case to this switch.(¨ÕÉ8êãîĞ­.
+[
+squid:S106?"9Replace this use of System.out or System.err by a logger.(¾’…†úÿÿÿÿ8êãîĞ­.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿ8êãîĞ­.
+\
+squid:S106º"9Replace this use of System.out or System.err by a logger.(©µÆùÿÿÿÿ8êãîĞ­.
+W
+squid:S106¹"9Replace this use of System.out or System.err by a logger.(ïÆ¨›8êãîĞ­.
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(û…àÙøÿÿÿÿ8êãîĞ­.
+[
+squid:S106a"9Replace this use of System.out or System.err by a logger.(úÈ´»üÿÿÿÿ8êãîĞ­.
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(Í¿Äÿ8êãîĞ­.
+[
+squid:S106l"9Replace this use of System.out or System.err by a logger.(Ö·‹üşÿÿÿÿ8êãîĞ­.
+bsquid:S1155®">Use isEmpty() to check whether the collection is empty or not.(™¼™ğúÿÿÿÿ8ÿÙ¯Ò­.
+\
+squid:S106Š"9Replace this use of System.out or System.err by a logger.(à—Îıÿÿÿÿ8êãîĞ­.
+\
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(ÊÚ¿Ùÿÿÿÿÿ8êãîĞ­.
+W
+squid:S106É"9Replace this use of System.out or System.err by a logger.(À‡·¸8ÿÙ¯Ò­.
+W
+squid:S106ñ"9Replace this use of System.out or System.err by a logger.(ıÏ¿²8ÿÙ¯Ò­.
+[
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¾’…†úÿÿÿÿ8êãîĞ­.
+]squid:S1155¥">Use isEmpty() to check whether the collection is empty or not.(õ„âİ8òÕ®Ò­.
+W
+squid:S106ı"9Replace this use of System.out or System.err by a logger.(›Â°Ê8ÿÙ¯Ò­.
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(‚¶Æ¡8êãîĞ­.
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(Èâêâÿÿÿÿÿ8êãîĞ­.
+rsquid:S1192?"ODefine a constant instead of duplicating this literal "Enter Username" 3 times.(¾’…†úÿÿÿÿ8Ù”¸Ñ­.
+[
+squid:S106p"9Replace this use of System.out or System.err by a logger.(ĞğıÈÿÿÿÿÿ8êãîĞ­.
+[
+squid:S106w"9Replace this use of System.out or System.err by a logger.(¯ƒÅ®ùÿÿÿÿ8êãîĞ­.
+W
+squid:S106ë"9Replace this use of System.out or System.err by a logger.(ÈÈ˜Ë8°ä¬Ñ­.
+\
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(ÀüÅòşÿÿÿÿ8êãîĞ­.
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(êæ·8êãîĞ­.
+W
+squid:S106±"9Replace this use of System.out or System.err by a logger.(ïÆ¨›8ÿÙ¯Ò­.
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(Èâêâÿÿÿÿÿ8êãîĞ­.
+~squid:S1192#"[Define a constant instead of duplicating this literal "Please Select option below" 5 times.(Üùÿøÿÿÿÿ8êãîĞ­.
+W
+squid:S106ï"9Replace this use of System.out or System.err by a logger.(ÉƒšÒ8ÿÙ¯Ò­.
+[
+squid:S1066"9Replace this use of System.out or System.err by a logger.(êöÔÑúÿÿÿÿ8êãîĞ­.
+X"squid:SwitchLastCaseIsDefaultCheck£""Add a default case to this switch.(¨ÕÉ8êãîĞ­.
+V
+squid:S106U"9Replace this use of System.out or System.err by a logger.(„‚ï8Í×ÌÑ­.
+W
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(»œŠ8ÿÙ¯Ò­.
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(±¯ææûÿÿÿÿ8êãîĞ­.
+\
+squid:S106Ø"9Replace this use of System.out or System.err by a logger.(Éœ¹³øÿÿÿÿ8ÿÙ¯Ò­.
+bsquid:S1155´">Use isEmpty() to check whether the collection is empty or not.(êÖ¿¥ûÿÿÿÿ8Ûï³Ò­.
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(İ¢áÕ8êãîĞ­.
+\
+squid:S106 "9Replace this use of System.out or System.err by a logger.(²¦àüúÿÿÿÿ8êãîĞ­.
+\
+squid:S106»"9Replace this use of System.out or System.err by a logger.(èÕ²Ìúÿÿÿÿ8ÿÙ¯Ò­.
+V
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Šªï8êãîĞ­.
+[
+squid:S106}"9Replace this use of System.out or System.err by a logger.(åİÒ”ûÿÿÿÿ8êãîĞ­.
+vsquid:S3776˜"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ªØÃ²øÿÿÿÿ8Ûï³Ò­.
+[
+squid:S106s"9Replace this use of System.out or System.err by a logger.(¯ƒÅ®ùÿÿÿÿ8êãîĞ­.
+W
+squid:S106ö"9Replace this use of System.out or System.err by a logger.(Ñæï­8ÿÙ¯Ò­.
+[
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Üùÿøÿÿÿÿ8êãîĞ­.
+W
+squid:S106Ü"9Replace this use of System.out or System.err by a logger.(†Ì¾®8ÿÙ¯Ò­.
+\
+squid:S106µ"9Replace this use of System.out or System.err by a logger.(Í¥‰ıÿÿÿÿ8Ûï³Ò­.
+\
+squid:S106Ñ"9Replace this use of System.out or System.err by a logger.(Üùÿøÿÿÿÿ8êãîĞ­.
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(‚¢ÔÍúÿÿÿÿ8êãîĞ­.
+\
+squid:S106"9Replace this use of System.out or System.err by a logger.(Üùÿøÿÿÿÿ8êãîĞ­.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ŠÑˆËıÿÿÿÿ8êãîĞ­.
+\
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(Óú¡Îûÿÿÿÿ8êãîĞ­.
+\
+squid:S106™"9Replace this use of System.out or System.err by a logger.(¦Í³şÿÿÿÿ8êãîĞ­.
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(ù’¦°8êãîĞ­.
+\
+squid:S106ô"9Replace this use of System.out or System.err by a logger.(¾’…†úÿÿÿÿ8ÿÙ¯Ò­.
+W
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(‰öâï8ÿÙ¯Ò­.
+W
+squid:S106¸"9Replace this use of System.out or System.err by a logger.(ÅÑä–8êãîĞ­.
+W
+squid:S106Ó"9Replace this use of System.out or System.err by a logger.(úßı8ÿÙ¯Ò­.
+X"squid:SwitchLastCaseIsDefaultCheckÕ""Add a default case to this switch.(¨ÕÉ8ÿÙ¯Ò­.

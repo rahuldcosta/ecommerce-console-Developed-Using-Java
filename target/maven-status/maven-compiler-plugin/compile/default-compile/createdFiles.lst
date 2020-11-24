@@ -1,0 +1,9 @@
+model\user\Customer.class
+model\user\Admin.class
+model\ShoppingCart.class
+model\Product.class
+model\user\User.class
+model\user\Credential.class
+model\Website.class
+model\enums\UserRole.class
+MainWebsiteApplication.class

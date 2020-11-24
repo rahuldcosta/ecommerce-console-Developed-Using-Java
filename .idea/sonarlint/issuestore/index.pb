@@ -1,0 +1,21 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+U
+%src/main/java/model/ShoppingCart.java,9\7\975891c8c63f6b763d955be48d81555b2830bdeb
+P
+ src/main/java/model/Product.java,0\6\06c2a30bdf9271d833924cab83b8653e90c1ec08
+W
+'src/main/java/model/enums/UserRole.java,0\f\0faa14779a299e150453a400a614c711c29f2ab2
+S
+#src/main/java/model/user/Admin.java,a\b\abc938c85fd52085a216410f66134f2e8749a09d
+X
+(src/main/java/model/user/Credential.java,8\a\8afa9e70aac71a012260ce9293d047a814a8d0e5
+R
+"src/main/java/model/user/User.java,b\2\b2215aa13fa5681dacd10cddfe6d903dc87732fa
+V
+&src/main/java/model/user/Customer.java,1\c\1c5acd0d331276590a5e66c442e41441aa743533
+P
+ src/main/java/model/Website.java,8\b\8b89ea67c2d81bf697d95e176ed754305b9d3838
+Y
+)src/main/java/MainWebsiteApplication.java,1\d\1da6202e0f719576f7241e1da9c7139a23dbe7c2
